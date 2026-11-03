@@ -6,6 +6,10 @@ models/checkpoints/
 # Python environment
 .venv/
 
+models/pretrained_model2
+
+
+
 # Dataset
 data/*.csv
 
