@@ -1,0 +1,9 @@
+numpy
+# pandas pinned below 3: PySpark 3.5.x toPandas() is built against pandas 2.x
+pandas>=2.0,<3
+scikit-learn
+joblib
+pyarrow
+kafka-python
+pymongo
+pyspark==3.5.1

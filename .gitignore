@@ -1,0 +1,16 @@
+# Downloaded pretrained models
+models/pretrained_models/
+
+
+
+# Python environment
+.venv/
+
+# Dataset
+data/*.csv
+
+# Secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
