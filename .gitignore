@@ -1,7 +1,7 @@
 # Downloaded pretrained models
 models/pretrained_models/
 
-
+models/checkpoints/
 
 # Python environment
 .venv/
